@@ -1,3 +1,31 @@
+# Dating App API - [Azure Deployment Live Demo](https://da-app-jc.azurewebsites.net)
+## Potential Employer Application Showcase 
+
+### For a more detail description go to: [Dating App SPA - Angular 6](https://github.com/curajorge/DatingApp)
+
+## Technologies:
+- Angular 6
+- Bootstrap 4
+- Ngx-Bootstrap
+
+## Implementation: 
+
+- Protecting multiple routes at once using Guards and Resolvers
+- Global Error handling service with Http Interceptor
+- Preventing form’s data lost with Route Guards. 
+- Reactive Forms with custom validators, and validation feedback.
+- Custom notification service using AlertifyJS.
+- Paging, filtering , sorting.
+
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393516/DatingApp/login.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393517/DatingApp/Members.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393518/DatingApp/Profile.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393516/DatingApp/Upload.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393515/DatingApp/signup.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393516/DatingApp/Imbox.jpg)
+![alt text](https://res.cloudinary.com/diab5vgnd/image/upload/v1542393518/DatingApp/MessageThread.jpg)
+
+
 # DatingAppSPA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -6,22 +34,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
