@@ -1,4 +1,7 @@
 # Dating App API - [Azure Deployment Live Demo](https://da-app-jc.azurewebsites.net)
+#### Testing Credentials: 
+- Username: 'lola'
+- Password: 'password'
 
 # For a more detail description go to: [DatingAppAPI](https://github.com/curajorge/DatingAppApi)
 
