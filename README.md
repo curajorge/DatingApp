@@ -1,7 +1,6 @@
 # Dating App API - [Azure Deployment Live Demo](https://da-app-jc.azurewebsites.net)
-## Potential Employer Application Showcase 
 
-### For a more detail description go to: [Dating App SPA - Angular 6](https://github.com/curajorge/DatingApp)
+# For a more detail description go to: [DatingAppAPI](https://github.com/curajorge/DatingAppApi)
 
 ## Technologies:
 - Angular 6
